@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from './components/Navbar'; // Changed from Sidebar
 import AppRoutes from './Routes/AppRoutes';
 
